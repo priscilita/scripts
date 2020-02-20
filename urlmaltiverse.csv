@@ -1,0 +1,2 @@
+hostname,blacklist,classification,domain,ip,tag
+AS48666 MAROSNET Telecommunication Company LLC,Phishing Itau Unibanco S.A,suspicious,clienteapp.info,91.234.99.59,"['phishing', 'sector:financial', 'itau unibanco s.a']"
